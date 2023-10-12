@@ -18,12 +18,10 @@
 			</picture>
 		</span>
 
-		to your new<br />SvelteKit app
+		西山<br />卒研室
 	</h1>
 
-	<h2>
-		try editing <strong>src/routes/+page.svelte</strong>
-	</h2>
+	<h2>大石陽太 島津慶一</h2>
 
 	<Counter />
 </section>
